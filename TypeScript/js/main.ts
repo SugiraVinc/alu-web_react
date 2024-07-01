@@ -23,7 +23,7 @@ const student2: Student = {
 
 let StudentList: Student[] = [student1, student2];
 
-const body: HTMLBodyElement = document.getElementsByTagName("body")[];
+const body: HTMLBodyElement = document.getElementsByTagName("body")[0];
 
 // create the table with HTML DOM
 
